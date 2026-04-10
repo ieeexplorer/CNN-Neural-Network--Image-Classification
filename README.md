@@ -230,4 +230,4 @@ If you want to extend this project later, good improvements are:
 - FastAPI inference API
 - experiment tracking with MLflow
 
----
+---***---
